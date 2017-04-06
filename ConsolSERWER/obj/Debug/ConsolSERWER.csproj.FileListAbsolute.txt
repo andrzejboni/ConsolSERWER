@@ -1,0 +1,6 @@
+c:\users\andrzej\documents\visual studio 2015\Projects\ConsolSERWER\ConsolSERWER\bin\Debug\ConsolSERWER.exe.config
+c:\users\andrzej\documents\visual studio 2015\Projects\ConsolSERWER\ConsolSERWER\bin\Debug\ConsolSERWER.exe
+c:\users\andrzej\documents\visual studio 2015\Projects\ConsolSERWER\ConsolSERWER\bin\Debug\ConsolSERWER.pdb
+c:\users\andrzej\documents\visual studio 2015\Projects\ConsolSERWER\ConsolSERWER\obj\Debug\ConsolSERWER.csprojResolveAssemblyReference.cache
+c:\users\andrzej\documents\visual studio 2015\Projects\ConsolSERWER\ConsolSERWER\obj\Debug\ConsolSERWER.exe
+c:\users\andrzej\documents\visual studio 2015\Projects\ConsolSERWER\ConsolSERWER\obj\Debug\ConsolSERWER.pdb
